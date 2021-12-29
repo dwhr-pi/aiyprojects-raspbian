@@ -70,3 +70,8 @@ or provides incorrect responses), try the following:
 
 [assistant-stack-overflow]: https://stackoverflow.com/questions/tagged/google-assistant-sdk
 [assistant-github-issues]: https://github.com/googlesamples/assistant-sdk-python/issues
+
+
+Wichtige Bezugsquelle:
+[Google AIY Vision Kit]: https://buyzero.de/collections/google-aiy-coral/products/google-aiy-vision-kit
+https://buyzero.de/
